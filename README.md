@@ -176,7 +176,7 @@ Décomposition waterfall du LCOH par composante (PV CAPEX, EOL CAPEX, ELEC CAPEX
 
 ---
 
-## 🖥 Dashboard Streamlit
+## Dashboard Streamlit
 
 ```bash
 # L'API Flask doit tourner en parallèle sur le port 5000
